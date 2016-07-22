@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TroyEncoder.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EncodedFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I:\My Projects\COM+ Projects\ConEdison\Pipeline Zip Archives</Value>
+    </Setting>
+    <Setting Name="SearchPattern" Type="System.String" Scope="User">
+      <Value Profile="(Default)">*.uue</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
